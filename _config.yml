@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Awake by Coffee
+tagline:          "@marvis blog" 
+description:      "När 140 tecken inte räcker"
+url:              http://awakeby.coffee
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'm@marvi.io'
+  url:            http://twitter.com/marvi
+
+# Custom vars
+version:          1.0.0
+
