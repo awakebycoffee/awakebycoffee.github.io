@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Awake by Coffee
-tagline:          "@marvis blog" 
-description:      "När 140 tecken inte räcker"
+tagline:          "När 140 tecken inte räcker"
+description:      "@marvis blog"
 url:              http://awakeby.coffee
 baseurl:          '/'
 paginate:         5
